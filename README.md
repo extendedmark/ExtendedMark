@@ -5,8 +5,10 @@ I love Markdown and its simplicity but its features are limited and have some is
 
 ## Markdown Issues
 
+- No target="_blank"
 - Indented code block
 - HTML block
+  - When a blank line is inserted in between, some parsers consider it as a code block
 
 ## Additonal Features
 
