@@ -14,4 +14,16 @@ I love Markdown and its simplicity but its features are limited and have some is
 
 - Variables
 - Include other markdown file
-- Extendability
+
+## Extendability
+
+e.g.
+
+```
+# Test
+
+---[component name]
+title: Test
+content: Content
+---
+```
