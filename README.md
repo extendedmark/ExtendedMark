@@ -19,11 +19,11 @@ I love Markdown and its simplicity but its features are limited and have some is
 
 e.g.
 
-```
+````
 # Test
 
----[component name]
+```[component name]
 title: Test
 content: Content
----
 ```
+````
